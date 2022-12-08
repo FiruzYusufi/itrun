@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\bin\Debug\net6.0\SimpleIt-Run.exe
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\bin\Debug\net6.0\SimpleIt-Run.deps.json
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\bin\Debug\net6.0\SimpleIt-Run.runtimeconfig.json
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\bin\Debug\net6.0\SimpleIt-Run.dll
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\bin\Debug\net6.0\ref\SimpleIt-Run.dll
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\bin\Debug\net6.0\SimpleIt-Run.pdb
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\SimpleIt-Run.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\SimpleIt-Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\SimpleIt-Run.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\SimpleIt-Run.AssemblyInfo.cs
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\SimpleIt-Run.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\SimpleIt-Run.dll
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\ref\SimpleIt-Run.dll
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\SimpleIt-Run.pdb
+C:\Users\Student\source\repos\SimpleIt-Run\SimpleIt-Run\obj\Debug\net6.0\SimpleIt-Run.genruntimeconfig.cache
